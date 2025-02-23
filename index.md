@@ -46,4 +46,4 @@ By using **SmartBite**, you consent to this Privacy Policy and the use of your d
 ## 6. **Contact Us**  
 If you have any questions or concerns about this Privacy Policy, feel free to contact us:  
 
-**Email:** levik.company@gmail.com  
+**Email:** [levik.company@gmail.com](mailto:levik.company@gmail.com)
