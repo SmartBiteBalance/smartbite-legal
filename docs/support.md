@@ -1,6 +1,6 @@
 # SmartBite Support
 
-_Last updated: February 22, 2025_
+_Last updated: April 01, 2025_
 
 ## Contact Support
 If you need help with SmartBite, please reach out via email:
