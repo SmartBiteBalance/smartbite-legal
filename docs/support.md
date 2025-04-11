@@ -53,6 +53,7 @@ See our full list of references below:
 - [Maintenance of Lost Weight – NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC5764193/)
 - [CDC: Losing Weight](https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html)
 - [Mayo Clinic: Weight Loss](https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047752)
+- [Healthline: How to Count Macros](https://www.healthline.com/nutrition/how-to-count-macros)
 
 ### 🧪 Protein, Nutrition & Macronutrients
 - [Dietary Protein and Muscle Mass – NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566799/)
