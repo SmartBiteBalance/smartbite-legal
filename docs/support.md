@@ -53,7 +53,6 @@ See our full list of references below:
 - [Maintenance of Lost Weight – NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC5764193/)
 - [CDC: Losing Weight](https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html)
 - [Mayo Clinic: Weight Loss](https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047752)
-- [Healthline: How to Count Macros](https://www.healthline.com/nutrition/how-to-count-macros)
 
 ### 🧪 Protein, Nutrition & Macronutrients
 - [Dietary Protein and Muscle Mass – NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566799/)
@@ -61,6 +60,7 @@ See our full list of references below:
 - [Harvard: Nutrition Topics](https://www.health.harvard.edu/topics/nutrition)
 - [Harvard: Carbohydrates](https://nutritionsource.hsph.harvard.edu/carbohydrates/)
 - [Harvard: Vegetables & Fruits](https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/)
+- [Healthline: How to Count Macros](https://www.healthline.com/nutrition/how-to-count-macros)
 
 ### ⚠️ Health Risks & Caloric Restriction
 - [Excessive Weight Loss Risks – NCBI](https://www.ncbi.nlm.nih.gov/books/NBK603752/)
