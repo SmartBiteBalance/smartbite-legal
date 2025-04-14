@@ -1,6 +1,6 @@
 # SmartBite Support
 
-_Last updated: April 04, 2025_
+_Last updated: April 14, 2025_
 
 ## Contact Support
 If you need help with SmartBite, please reach out via email:
@@ -45,48 +45,48 @@ See our full list of references below:
 
 ### 🧮 Calculations & Weight Maintenance
 - [Mifflin-St. Jeor Formula](https://nutrium.com/blog/mifflin-st-jeor-for-nutrition-professionals/)
-- [Maintaining Weight Loss – Johns Hopkins](https://www.hopkinsmedicine.org/health/wellness-and-prevention/maintaining-weight-loss)
-- [Healthline: Reverse Dieting](https://www.healthline.com/nutrition/how-to-reverse-diet-without-gaining-weight)
+- [Johns Hopkins Medicine: Maintaining Weight Loss](https://www.hopkinsmedicine.org/health/wellness-and-prevention/maintaining-weight-loss)
+- [Healthline: What Is a Reverse Diet?](https://www.healthline.com/nutrition/how-to-reverse-diet-without-gaining-weight)
 - [GoodRx: Reverse Dieting](https://www.goodrx.com/well-being/diet-nutrition/reverse-dieting)
-- [Metabolic Consequences of Weight Reduction (NCBI)](https://www.ncbi.nlm.nih.gov/books/NBK572145/)
-- [Keeping the Weight Off – Stanford Health](https://stanfordhealthcare.org/medical-conditions/healthy-living/obesity/weight-loss-maintenance.html)
-- [Maintenance of Lost Weight – NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC5764193/)
+- [NCBI: Metabolic Consequences of Weight Reduction](https://www.ncbi.nlm.nih.gov/books/NBK572145/)
+- [Stanford Health Care: Keeping the Weight Off](https://stanfordhealthcare.org/medical-conditions/healthy-living/obesity/weight-loss-maintenance.html)
+- [NCBI: Maintenance of Lost Weight](https://pmc.ncbi.nlm.nih.gov/articles/PMC5764193/)
 - [CDC: Losing Weight](https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html)
 - [Mayo Clinic: Weight Loss](https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047752)
 
 ### 🧪 Protein, Nutrition & Macronutrients
-- [Dietary Protein and Muscle Mass – NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566799/)
+- [NCBI: Dietary Protein and Muscle Mass](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566799/)
 - [How Much Protein Do You Need – UnityPoint](https://www.unitypoint.org/news-and-articles/how-much-protein-do-you-need-daily-ideal-protein-intake-for-muscle-growth-weight-loss-and-managing-chronic-conditions)
 - [Harvard: Nutrition Topics](https://www.health.harvard.edu/topics/nutrition)
-- [Harvard: Carbohydrates](https://nutritionsource.hsph.harvard.edu/carbohydrates/)
-- [Harvard: Vegetables & Fruits](https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/)
+- [The Nutrition Source: Carbohydrates](https://nutritionsource.hsph.harvard.edu/carbohydrates/)
+- [The Nutrition Source: Vegetables & Fruits](https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/)
 - [Healthline: How to Count Macros](https://www.healthline.com/nutrition/how-to-count-macros)
 
 ### ⚠️ Health Risks & Caloric Restriction
-- [Excessive Weight Loss Risks – NCBI](https://www.ncbi.nlm.nih.gov/books/NBK603752/)
-- [Fad Diet Risks – Oklahoma State Extension](https://extension.okstate.edu/fact-sheets/the-health-risk-of-fad-diets.html)
+- [NCBI: Excessive Weight Loss Risks](https://www.ncbi.nlm.nih.gov/books/NBK603752/)
+- [Oklahoma State University: The Health Risks of Fad Diets](https://extension.okstate.edu/fact-sheets/the-health-risk-of-fad-diets.html)
 - [Healthline: Risks of Calorie Restriction](https://www.healthline.com/nutrition/calorie-restriction-risks)
 
 ### 🍽️ Malnutrition & Undereating
-- [Malnutrition – NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC4951875/)
-- [Not Eating – The Bulimia Project](https://bulimia.com/eating-disorders/the-effects-of-not-eating/)
-- [Effects of Undereating – Eating Disorders UK](https://eating-disorders.org.uk/information/the-effects-of-under-eating/)
+- [NCBI: Malnutrition](https://pmc.ncbi.nlm.nih.gov/articles/PMC4951875/)
+- [The Bulimia Project: Not Eating](https://bulimia.com/eating-disorders/the-effects-of-not-eating/)
+- [Eating Disorders UK: Effects of Under-Eating](https://eating-disorders.org.uk/information/the-effects-of-under-eating/)
 
 ### 🌙 Eating Patterns & Cravings
-- [Curb Nighttime Cravings – Virtua Health](https://www.virtua.org/articles/7-easy-ways-to-curb-your-nighttime-snack-cravings)
-- [Is Eating Before Bed Bad? – Cleveland Clinic](https://health.clevelandclinic.org/is-eating-before-bed-bad-for-you)
+- [Virtua Health: Curb Nighttime Cravings](https://www.virtua.org/articles/7-easy-ways-to-curb-your-nighttime-snack-cravings)
+- [Cleveland Clinic: Is Eating Before Bed Bad?](https://health.clevelandclinic.org/is-eating-before-bed-bad-for-you)
 
 ### 💤 Sleep & Nutrition
-- [Sleep & Metabolism – NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC9031614/)
-- [Sleep Restriction & Food Intake – NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC1991337/)
-- [Insulin Sensitivity – Biomed Central](https://dmsjournal.biomedcentral.com/articles/10.1186/s13098-015-0018-3)
-- [Sleep & Obesity – Wiley](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.23616)
-- [Sleep & Food Intake – Cambridge](https://www.cambridge.org/core/journals/nutrition-research-reviews/article/influence-of-sleep-and-sleep-loss-upon-food-intake-and-metabolism/A872D75B6A9364C5BFEDB4630CF73A41)
-- [Sleep & Nutrition – MDPI](https://www.mdpi.com/2072-6643/14/24/5196)
+- [NCBI: Sleep & Metabolism](https://pmc.ncbi.nlm.nih.gov/articles/PMC9031614/)
+- [NCBI: Sleep Restriction & Food Intake](https://pmc.ncbi.nlm.nih.gov/articles/PMC1991337/)
+- [BioMed Central: Insulin Sensitivity](https://dmsjournal.biomedcentral.com/articles/10.1186/s13098-015-0018-3)
+- [Wiley: Sleep & Obesity](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.23616)
+- [Cambridge University Press: Sleep & Food Intake](https://www.cambridge.org/core/journals/nutrition-research-reviews/article/influence-of-sleep-and-sleep-loss-upon-food-intake-and-metabolism/A872D75B6A9364C5BFEDB4630CF73A41)
+- [MDPI:  Sleep & Nutrition](https://www.mdpi.com/2072-6643/14/24/5196)
 
 ### ✨ Cellulite
-- [Causes & Treatment – Canadian Clinic](https://www.canadian.cz/en/articles-and-news/cellulite-causes-and-treatment)
-- [Cleveland Clinic – Cellulite Info](https://my.clevelandclinic.org/health/diseases/17694-cellulite)
+- [Canadian Medical: Causes & Treatment](https://www.canadian.cz/en/articles-and-news/cellulite-causes-and-treatment)
+- [Cleveland Clinic – Cellulite](https://my.clevelandclinic.org/health/diseases/17694-cellulite)
 
 </details>
 
