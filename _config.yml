@@ -4,10 +4,6 @@ title: ""
 description: Legal information for SmartBite
 theme: minima
 
-# Skin
-minima:
-  skin: classic
-
 # Sass
 sass:
   style: compressed
