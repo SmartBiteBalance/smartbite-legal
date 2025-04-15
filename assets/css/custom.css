@@ -1,0 +1,5 @@
+/* Hide double title */
+.post-content #privacy-policy-for-smartbite,
+.post-content #smartbite-support {
+  display: none;
+}
