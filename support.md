@@ -1,5 +1,3 @@
-# SmartBite Support
-
 _Last updated: April 14, 2025_
 
 ## Contact Support
