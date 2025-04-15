@@ -2,5 +2,5 @@
 
 This repository contains legal documents for SmartBite, including:
 
-- [Privacy Policy](docs/privacy-policy.md)
-- [Support Information](docs/support.md)
+- [Privacy Policy](privacy-policy.md)
+- [Support Information](support.md)
