@@ -1,7 +1,7 @@
 # Privacy Policy for SmartBite  
 _Last updated: April 04, 2025_
 
-## Introduction  
+### Introduction  
 SmartBite is committed to protecting your privacy and ensuring that your data is handled responsibly and transparently. This Privacy Policy outlines the types of data we collect, how it is used, and the measures we take to safeguard your information.
 
 ### 1. Data We Collect
