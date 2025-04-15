@@ -11,30 +11,30 @@ We aim to respond within 48 hours.
 
 ## Frequently Asked Questions (FAQs)
 
-### **1. How do I restore my SmartBite Pro purchase?**
+### 1. How do I restore my SmartBite Pro purchase?
 - Open SmartBite.
 - Go to the **Subscription** page.
 - Tap **"Restore Purchase"**.
 - Ensure you are logged into the same Apple ID you used for the purchase.
 
-### **2. I subscribed but I don’t have access to SmartBite Pro. What should I do?**
+### 2. I subscribed but I don’t have access to SmartBite Pro. What should I do?
 - Try tapping **"Restore Purchase"** in the app.
 - Restart the app and check again.
 - If the issue persists, **contact support** with your purchase details.
 
-### **3. How do I cancel my subscription?**
+### 3. How do I cancel my subscription?
 - Go to **[Manage Subscriptions](https://apps.apple.com/account/subscriptions)**.
 - Find **SmartBite** and select **Cancel Subscription**.
 - Your subscription will remain active until the current billing period ends.
 
-### **4. Does SmartBite collect any personal data?**
+### 4. Does SmartBite collect any personal data?
 No, SmartBite does not collect any personally identifiable data. All calculations are done locally on your device.
 
-### **5. I have a feature request. How can I share it?**
+### 5. I have a feature request. How can I share it?
 We love hearing from users! You can send feature requests to:
 - **Email:** [levik.company@gmail.com](mailto:levik.company@gmail.com)
 
-### **6. Where can I read more about the science behind SmartBite’s calculations?**
+### 6. Where can I read more about the science behind SmartBite’s calculations?
 We use reliable sources from medical journals and institutions to base our recommendations.  
 See our full list of references below:
 
@@ -43,7 +43,7 @@ See our full list of references below:
 
 <br>
 
-### 🧮 Calculations & Weight Maintenance
+#### 🧮 Calculations & Weight Maintenance
 - [Mifflin-St. Jeor Formula](https://nutrium.com/blog/mifflin-st-jeor-for-nutrition-professionals/)
 - [Johns Hopkins Medicine: Maintaining Weight Loss](https://www.hopkinsmedicine.org/health/wellness-and-prevention/maintaining-weight-loss)
 - [Healthline: What Is a Reverse Diet?](https://www.healthline.com/nutrition/how-to-reverse-diet-without-gaining-weight)
@@ -54,7 +54,7 @@ See our full list of references below:
 - [CDC: Losing Weight](https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html)
 - [Mayo Clinic: Weight Loss](https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047752)
 
-### 🧪 Protein, Nutrition & Macronutrients
+#### 🧪 Protein, Nutrition & Macronutrients
 - [NCBI: Dietary Protein and Muscle Mass](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566799/)
 - [How Much Protein Do You Need – UnityPoint](https://www.unitypoint.org/news-and-articles/how-much-protein-do-you-need-daily-ideal-protein-intake-for-muscle-growth-weight-loss-and-managing-chronic-conditions)
 - [Harvard: Nutrition Topics](https://www.health.harvard.edu/topics/nutrition)
@@ -62,21 +62,21 @@ See our full list of references below:
 - [The Nutrition Source: Vegetables & Fruits](https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/)
 - [Healthline: How to Count Macros](https://www.healthline.com/nutrition/how-to-count-macros)
 
-### ⚠️ Health Risks & Caloric Restriction
+#### ⚠️ Health Risks & Caloric Restriction
 - [NCBI: Excessive Weight Loss Risks](https://www.ncbi.nlm.nih.gov/books/NBK603752/)
 - [Oklahoma State University: The Health Risks of Fad Diets](https://extension.okstate.edu/fact-sheets/the-health-risk-of-fad-diets.html)
 - [Healthline: Risks of Calorie Restriction](https://www.healthline.com/nutrition/calorie-restriction-risks)
 
-### 🍽️ Malnutrition & Undereating
+#### 🍽️ Malnutrition & Undereating
 - [NCBI: Malnutrition](https://pmc.ncbi.nlm.nih.gov/articles/PMC4951875/)
 - [The Bulimia Project: Not Eating](https://bulimia.com/eating-disorders/the-effects-of-not-eating/)
 - [Eating Disorders UK: Effects of Under-Eating](https://eating-disorders.org.uk/information/the-effects-of-under-eating/)
 
-### 🌙 Eating Patterns & Cravings
+#### 🌙 Eating Patterns & Cravings
 - [Virtua Health: Curb Nighttime Cravings](https://www.virtua.org/articles/7-easy-ways-to-curb-your-nighttime-snack-cravings)
 - [Cleveland Clinic: Is Eating Before Bed Bad?](https://health.clevelandclinic.org/is-eating-before-bed-bad-for-you)
 
-### 💤 Sleep & Nutrition
+#### 💤 Sleep & Nutrition
 - [NCBI: Sleep & Metabolism](https://pmc.ncbi.nlm.nih.gov/articles/PMC9031614/)
 - [NCBI: Sleep Restriction & Food Intake](https://pmc.ncbi.nlm.nih.gov/articles/PMC1991337/)
 - [BioMed Central: Insulin Sensitivity](https://dmsjournal.biomedcentral.com/articles/10.1186/s13098-015-0018-3)
@@ -84,7 +84,7 @@ See our full list of references below:
 - [Cambridge University Press: Sleep & Food Intake](https://www.cambridge.org/core/journals/nutrition-research-reviews/article/influence-of-sleep-and-sleep-loss-upon-food-intake-and-metabolism/A872D75B6A9364C5BFEDB4630CF73A41)
 - [MDPI:  Sleep & Nutrition](https://www.mdpi.com/2072-6643/14/24/5196)
 
-### ✨ Cellulite
+#### ✨ Cellulite
 - [Canadian Medical: Causes & Treatment](https://www.canadian.cz/en/articles-and-news/cellulite-causes-and-treatment)
 - [Cleveland Clinic – Cellulite](https://my.clevelandclinic.org/health/diseases/17694-cellulite)
 
