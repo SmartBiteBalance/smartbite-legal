@@ -6,3 +6,9 @@ theme: minima
 # Custom styles
 sass:
   style: compressed
+
+
+# Enable GitHub Pages to find assets if needed
+include:
+  - assets/css
+  - _sass
