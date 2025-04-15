@@ -41,53 +41,68 @@ See our full list of references below:
 <details>
 <summary><strong>📚 Scientific & Educational References</strong></summary>
 
-<br>
+<div style="margin-top: 1em;">
 
-#### 🧮 Calculations & Weight Maintenance
-- [Mifflin-St. Jeor Formula](https://nutrium.com/blog/mifflin-st-jeor-for-nutrition-professionals/)
-- [Johns Hopkins Medicine: Maintaining Weight Loss](https://www.hopkinsmedicine.org/health/wellness-and-prevention/maintaining-weight-loss)
-- [Healthline: What Is a Reverse Diet?](https://www.healthline.com/nutrition/how-to-reverse-diet-without-gaining-weight)
-- [GoodRx: Reverse Dieting](https://www.goodrx.com/well-being/diet-nutrition/reverse-dieting)
-- [NCBI: Metabolic Consequences of Weight Reduction](https://www.ncbi.nlm.nih.gov/books/NBK572145/)
-- [Stanford Health Care: Keeping the Weight Off](https://stanfordhealthcare.org/medical-conditions/healthy-living/obesity/weight-loss-maintenance.html)
-- [NCBI: Maintenance of Lost Weight](https://pmc.ncbi.nlm.nih.gov/articles/PMC5764193/)
-- [CDC: Losing Weight](https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html)
-- [Mayo Clinic: Weight Loss](https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047752)
+<h4>🧮 Calculations & Weight Maintenance</h4>
+<ul>
+  <li><a href="https://nutrium.com/blog/mifflin-st-jeor-for-nutrition-professionals/">Mifflin-St. Jeor Formula</a></li>
+  <li><a href="https://www.hopkinsmedicine.org/health/wellness-and-prevention/maintaining-weight-loss">Johns Hopkins Medicine: Maintaining Weight Loss</a></li>
+  <li><a href="https://www.healthline.com/nutrition/how-to-reverse-diet-without-gaining-weight">Healthline: What Is a Reverse Diet?</a></li>
+  <li><a href="https://www.goodrx.com/well-being/diet-nutrition/reverse-dieting">GoodRx: Reverse Dieting</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/books/NBK572145/">NCBI: Metabolic Consequences of Weight Reduction</a></li>
+  <li><a href="https://stanfordhealthcare.org/medical-conditions/healthy-living/obesity/weight-loss-maintenance.html">Stanford Health Care: Keeping the Weight Off</a></li>
+  <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5764193/">NCBI: Maintenance of Lost Weight</a></li>
+  <li><a href="https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html">CDC: Losing Weight</a></li>
+  <li><a href="https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047752">Mayo Clinic: Weight Loss</a></li>
+</ul>
 
-#### 🧪 Protein, Nutrition & Macronutrients
-- [NCBI: Dietary Protein and Muscle Mass](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566799/)
-- [How Much Protein Do You Need – UnityPoint](https://www.unitypoint.org/news-and-articles/how-much-protein-do-you-need-daily-ideal-protein-intake-for-muscle-growth-weight-loss-and-managing-chronic-conditions)
-- [Harvard: Nutrition Topics](https://www.health.harvard.edu/topics/nutrition)
-- [The Nutrition Source: Carbohydrates](https://nutritionsource.hsph.harvard.edu/carbohydrates/)
-- [The Nutrition Source: Vegetables & Fruits](https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/)
-- [Healthline: How to Count Macros](https://www.healthline.com/nutrition/how-to-count-macros)
+<h4>🧪 Protein, Nutrition & Macronutrients</h4>
+<ul>
+  <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6566799/">NCBI: Dietary Protein and Muscle Mass</a></li>
+  <li><a href="https://www.unitypoint.org/news-and-articles/how-much-protein-do-you-need-daily-ideal-protein-intake-for-muscle-growth-weight-loss-and-managing-chronic-conditions">UnityPoint: Protein Needs</a></li>
+  <li><a href="https://www.health.harvard.edu/topics/nutrition">Harvard: Nutrition Topics</a></li>
+  <li><a href="https://nutritionsource.hsph.harvard.edu/carbohydrates/">The Nutrition Source: Carbohydrates</a></li>
+  <li><a href="https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/">The Nutrition Source: Vegetables & Fruits</a></li>
+  <li><a href="https://www.healthline.com/nutrition/how-to-count-macros">Healthline: How to Count Macros</a></li>
+</ul>
 
-#### ⚠️ Health Risks & Caloric Restriction
-- [NCBI: Excessive Weight Loss Risks](https://www.ncbi.nlm.nih.gov/books/NBK603752/)
-- [Oklahoma State University: The Health Risks of Fad Diets](https://extension.okstate.edu/fact-sheets/the-health-risk-of-fad-diets.html)
-- [Healthline: Risks of Calorie Restriction](https://www.healthline.com/nutrition/calorie-restriction-risks)
+<h4>⚠️ Health Risks & Caloric Restriction</h4>
+<ul>
+  <li><a href="https://www.ncbi.nlm.nih.gov/books/NBK603752/">NCBI: Excessive Weight Loss Risks</a></li>
+  <li><a href="https://extension.okstate.edu/fact-sheets/the-health-risk-of-fad-diets.html">Oklahoma State: Health Risks of Fad Diets</a></li>
+  <li><a href="https://www.healthline.com/nutrition/calorie-restriction-risks">Healthline: Risks of Calorie Restriction</a></li>
+</ul>
 
-#### 🍽️ Malnutrition & Undereating
-- [NCBI: Malnutrition](https://pmc.ncbi.nlm.nih.gov/articles/PMC4951875/)
-- [The Bulimia Project: Not Eating](https://bulimia.com/eating-disorders/the-effects-of-not-eating/)
-- [Eating Disorders UK: Effects of Under-Eating](https://eating-disorders.org.uk/information/the-effects-of-under-eating/)
+<h4>🍽️ Malnutrition & Undereating</h4>
+<ul>
+  <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4951875/">NCBI: Malnutrition</a></li>
+  <li><a href="https://bulimia.com/eating-disorders/the-effects-of-not-eating/">The Bulimia Project: Not Eating</a></li>
+  <li><a href="https://eating-disorders.org.uk/information/the-effects-of-under-eating/">Eating Disorders UK: Effects of Under-Eating</a></li>
+</ul>
 
-#### 🌙 Eating Patterns & Cravings
-- [Virtua Health: Curb Nighttime Cravings](https://www.virtua.org/articles/7-easy-ways-to-curb-your-nighttime-snack-cravings)
-- [Cleveland Clinic: Is Eating Before Bed Bad?](https://health.clevelandclinic.org/is-eating-before-bed-bad-for-you)
+<h4>🌙 Eating Patterns & Cravings</h4>
+<ul>
+  <li><a href="https://www.virtua.org/articles/7-easy-ways-to-curb-your-nighttime-snack-cravings">Virtua Health: Curb Nighttime Cravings</a></li>
+  <li><a href="https://health.clevelandclinic.org/is-eating-before-bed-bad-for-you">Cleveland Clinic: Is Eating Before Bed Bad?</a></li>
+</ul>
 
-#### 💤 Sleep & Nutrition
-- [NCBI: Sleep & Metabolism](https://pmc.ncbi.nlm.nih.gov/articles/PMC9031614/)
-- [NCBI: Sleep Restriction & Food Intake](https://pmc.ncbi.nlm.nih.gov/articles/PMC1991337/)
-- [BioMed Central: Insulin Sensitivity](https://dmsjournal.biomedcentral.com/articles/10.1186/s13098-015-0018-3)
-- [Wiley: Sleep & Obesity](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.23616)
-- [Cambridge University Press: Sleep & Food Intake](https://www.cambridge.org/core/journals/nutrition-research-reviews/article/influence-of-sleep-and-sleep-loss-upon-food-intake-and-metabolism/A872D75B6A9364C5BFEDB4630CF73A41)
-- [MDPI:  Sleep & Nutrition](https://www.mdpi.com/2072-6643/14/24/5196)
+<h4>💤 Sleep & Nutrition</h4>
+<ul>
+  <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9031614/">NCBI: Sleep & Metabolism</a></li>
+  <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1991337/">NCBI: Sleep Restriction & Food Intake</a></li>
+  <li><a href="https://dmsjournal.biomedcentral.com/articles/10.1186/s13098-015-0018-3">BioMed Central: Insulin Sensitivity</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/oby.23616">Wiley: Sleep & Obesity</a></li>
+  <li><a href="https://www.cambridge.org/core/journals/nutrition-research-reviews/article/influence-of-sleep-and-sleep-loss-upon-food-intake-and-metabolism/A872D75B6A9364C5BFEDB4630CF73A41">Cambridge University Press: Sleep & Food Intake</a></li>
+  <li><a href="https://www.mdpi.com/2072-6643/14/24/5196">MDPI: Sleep & Nutrition</a></li>
+</ul>
 
-#### ✨ Cellulite
-- [Canadian Medical: Causes & Treatment](https://www.canadian.cz/en/articles-and-news/cellulite-causes-and-treatment)
-- [Cleveland Clinic – Cellulite](https://my.clevelandclinic.org/health/diseases/17694-cellulite)
+<h4>✨ Cellulite</h4>
+<ul>
+  <li><a href="https://www.canadian.cz/en/articles-and-news/cellulite-causes-and-treatment">Canadian Medical: Causes & Treatment</a></li>
+  <li><a href="https://my.clevelandclinic.org/health/diseases/17694-cellulite">Cleveland Clinic – Cellulite</a></li>
+</ul>
 
+</div>
 </details>
 
 ---
