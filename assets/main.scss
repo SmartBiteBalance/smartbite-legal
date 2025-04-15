@@ -3,8 +3,12 @@
 
 @import "minima";
 
-/* Your custom styles */
+/* Custom styles */
 .post-content #privacy-policy-for-smartbite,
 .post-content #smartbite-support {
   display: none;
+}
+
+.post-content hr {
+  margin: 20px 0;
 }
