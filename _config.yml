@@ -1,3 +1,20 @@
+# _config.yml
 title: ""
 description: Legal information for SmartBite
 theme: minima
+
+# Custom styles
+sass:
+  load_paths:
+    - _sass
+    - assets/css
+
+include:
+  - assets/css
+
+# Use custom stylesheet
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
