@@ -5,5 +5,5 @@ title: Legal
 
 # Legal Information
 
-- [Privacy Policy](privacy-policy.md)
-- [Support Information](support.md)
+- [Privacy Policy](docs/privacy-policy.md)
+- [Support Information](docs/support.md)
