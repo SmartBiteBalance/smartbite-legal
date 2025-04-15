@@ -1,14 +1,18 @@
 # _config.yml
+
 title: ""
 description: Legal information for SmartBite
 theme: minima
 
-# Custom styles
+# Optional: dark/light/auto color skin
+minima:
+  skin: classic
+
+# Tell Jekyll to use Sass and include your folders
 sass:
   style: compressed
 
-
-# Enable GitHub Pages to find assets if needed
+# These folders must be included so GitHub Pages processes them
 include:
   - assets/css
   - _sass
