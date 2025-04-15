@@ -4,9 +4,6 @@ title: ""
 description: Legal information for SmartBite
 theme: minima
 
-# Remote theme (Minima v3)
-remote_theme: jekyll/minima@3.0.0
-
 # Skin
 minima:
   skin: classic
