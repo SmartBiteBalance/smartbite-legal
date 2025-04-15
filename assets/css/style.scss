@@ -1,5 +1,10 @@
 ---
 ---
 
-@import "minima/skins/classic";
-@import "minima/initialize";
+@import "minima";
+
+/* Your custom styles */
+.post-content #privacy-policy-for-smartbite,
+.post-content #smartbite-support {
+  display: none;
+}
